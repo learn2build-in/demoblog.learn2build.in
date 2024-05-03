@@ -6,7 +6,8 @@
       "tags": "html",
       "type":"post",
       "menus": [ 
-        { "name":"Curriculum", "link":"curriculum" }
+        { "name":"Curriculum", "link":"curriculum" },
+        { "name":"Schedule", "link":"/html?view=schedule" }
       ]
     },
     {

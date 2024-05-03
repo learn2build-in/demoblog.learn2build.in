@@ -3,7 +3,8 @@
       "title": "HTML",
       "permalink": "html",
       "order": 1,
-      "tags": "html"
+      "tags": "html",
+      "type":"section"
     },
     {
       "title": "JavaScript",

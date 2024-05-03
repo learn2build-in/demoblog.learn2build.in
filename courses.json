@@ -7,6 +7,7 @@
       "type":"post",
       "menus": [ 
         { "name":"Curriculum", "link":"curriculum" },
+        { "name":"Content", "link":"?view-=content" },
         { "name":"Schedule", "link":"?view=schedule" }
       ]
     },

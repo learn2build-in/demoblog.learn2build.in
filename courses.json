@@ -4,7 +4,7 @@
       "permalink": "html",
       "order": 1,
       "tags": "html",
-      "type":"section",
+      "type":"post",
       "menus": [ 
         { "name":"Curriculum", "link":"curriculum" }
       ]

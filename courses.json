@@ -4,7 +4,10 @@
       "permalink": "html",
       "order": 1,
       "tags": "html",
-      "type":"section"
+      "type":"section",
+      "menus": [ 
+        { "name":"Curriculum", "link":"curriculum" }
+      ]
     },
     {
       "title": "JavaScript",

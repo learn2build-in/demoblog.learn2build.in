@@ -1,6 +1,3 @@
----
-title: Curriculum
----
 #### Curriculum
 
 Unit 1: 
